@@ -1,0 +1,24 @@
+div {
+}
+.re {
+    background-color: #ccd9ff;
+    border: dashed 4px;
+    margin: 10px;
+    padding: 4px;
+    color: black;
+}
+.sport {
+    margin: 4px;
+    background-color: #ccd9ff;
+    border: dashed 4px;
+    margin: 10px;
+    padding: 4px;
+    color: black;
+}
+body {
+    background-color: #e6ffff;
+}
+img {
+    width: 150px;
+}
+
